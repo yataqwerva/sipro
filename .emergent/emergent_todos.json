@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Fase 47/G4: Tulis scripts/mutasi_47.py (19 mutasi) & jalankan sampai semua TERTANGKAP",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 47/G5: Daftarkan 3 gate baru ke run_all_gates.sh (30 -> 33) + jalankan seluruh gate PASS",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 47: Perbaiki regresi RBAC-UI (LaborPayrollPanel & QuotationDetailSheet menyalin daftar peran) + gerbang tombol pakai can()",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 47: Perbarui dokumen (CODEBASE_MAP.md, plan.md, test_result.md, memory/test_credentials.md, docs/v2/41)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 47: E2E testing multi-peran via testing agent + perbaiki semua temuan",
+    "status": "in_progress"
+  },
+  {
+    "content": "Fase 48: Audit celah Pengadaan & Subkon (SPK, termin, retensi, klaim progres) + rencana",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 48: POC core (uang muka SPK, retensi bergerbang, denda, tie-out GL)",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 48: Implementasi backend + frontend end-to-end",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 48: Gate + mutasi + E2E testing penutup",
+    "status": "pending"
+  }
+]
